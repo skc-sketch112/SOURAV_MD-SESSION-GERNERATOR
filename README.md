@@ -1,0 +1,2 @@
+# SOURAV_MD-SESSION-GERNERATOR
+It will gives you session id for your bot (SOURAV_MD) TO DEPLOY ON ANY PLATFORM EASILY
